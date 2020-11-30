@@ -93,3 +93,7 @@ export const TableContainer = styled.section`
     }
   }
 `;
+
+export const Paragrafo = styled.p`
+  background-color: pink;
+`;
